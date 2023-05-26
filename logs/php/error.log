@@ -1,0 +1,34 @@
+[26-May-2023 09:27:58 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "Artem" in /Users/ses/Local Sites/test/app/public/test.php:2
+Stack trace:
+#0 {main}
+  thrown in /Users/ses/Local Sites/test/app/public/test.php on line 2
+[26-May-2023 09:28:36 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "Artem" in /Users/ses/Local Sites/test/app/public/test.php:2
+Stack trace:
+#0 {main}
+  thrown in /Users/ses/Local Sites/test/app/public/test.php on line 2
+[26-May-2023 09:28:47 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "Artem" in /Users/ses/Local Sites/test/app/public/test.php:2
+Stack trace:
+#0 {main}
+  thrown in /Users/ses/Local Sites/test/app/public/test.php on line 2
+[26-May-2023 09:29:30 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "Artem" in /Users/ses/Local Sites/test/app/public/test.php:2
+Stack trace:
+#0 {main}
+  thrown in /Users/ses/Local Sites/test/app/public/test.php on line 2
+[26-May-2023 09:33:08 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + int in /Users/ses/Local Sites/test/app/public/test.php:13
+Stack trace:
+#0 {main}
+  thrown in /Users/ses/Local Sites/test/app/public/test.php on line 13
+[26-May-2023 09:52:44 UTC] PHP Parse error:  syntax error, unexpected token "public", expecting end of file in /Users/ses/Local Sites/test/app/public/wp-content/themes/test/index.php on line 3
+[26-May-2023 09:53:52 UTC] PHP Parse error:  syntax error, unexpected token "public", expecting end of file in /Users/ses/Local Sites/test/app/public/wp-content/themes/test/index.php on line 3
+[26-May-2023 09:59:02 UTC] PHP Parse error:  syntax error, unexpected identifier "greet" in /Users/ses/Local Sites/test/app/public/wp-content/themes/test/index.php on line 8
+[26-May-2023 10:10:42 UTC] PHP Parse error:  syntax error, unexpected token "++", expecting ")" in /Users/ses/Local Sites/test/app/public/wp-content/themes/test/index.php on line 6
+[26-May-2023 10:10:53 UTC] PHP Parse error:  Unclosed '{' on line 6 in /Users/ses/Local Sites/test/app/public/wp-content/themes/test/index.php on line 8
+[26-May-2023 10:11:03 UTC] PHP Warning:  Undefined array key 4 in /Users/ses/Local Sites/test/app/public/wp-content/themes/test/index.php on line 7
+[26-May-2023 10:27:06 UTC] PHP Parse error:  syntax error, unexpected token "}" in /Users/ses/Local Sites/test/app/public/wp-content/themes/test/index.php on line 6
+[26-May-2023 10:27:21 UTC] PHP Parse error:  syntax error, unexpected token "}" in /Users/ses/Local Sites/test/app/public/wp-content/themes/test/index.php on line 6
+[26-May-2023 10:28:19 UTC] PHP Parse error:  syntax error, unexpected token ":", expecting ")" in /Users/ses/Local Sites/test/app/public/wp-content/themes/test/index.php on line 4
+[26-May-2023 10:28:35 UTC] PHP Parse error:  syntax error, unexpected identifier "the_post" in /Users/ses/Local Sites/test/app/public/wp-content/themes/test/index.php on line 5
+[26-May-2023 10:30:11 UTC] PHP Parse error:  syntax error, unexpected identifier "the_post" in /Users/ses/Local Sites/test/app/public/wp-content/themes/test/index.php on line 5
+[26-May-2023 10:35:04 UTC] PHP Parse error:  syntax error, unexpected token ":", expecting ")" in /Users/ses/Local Sites/test/app/public/wp-content/themes/test/index.php on line 5
+[26-May-2023 16:19:20 UTC] PHP Parse error:  Unclosed '{' on line 3 does not match ')' in /Users/ses/Local Sites/test/app/public/wp-content/themes/test/functions.php on line 6
+[26-May-2023 16:34:05 UTC] PHP Parse error:  syntax error, unexpected identifier "wp_enqueue_style" in /Users/ses/Local Sites/test/app/public/wp-content/themes/test/functions.php on line 5
